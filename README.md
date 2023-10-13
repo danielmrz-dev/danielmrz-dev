@@ -1,4 +1,4 @@
-# I'm Daniel! I'm a Front-end Developer 🧑🏽‍💻
+# I'm Daniel! I'm a Front-end Developer! 💻
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielmrz-dev&show_icons=true&theme=dracula&rank_icon=github"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmrz-dev&theme=dracula">
 
