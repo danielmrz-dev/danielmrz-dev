@@ -1,5 +1,6 @@
 # Hi! I'm Daniel and I'm a Front-end Developer! 💻
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielmrz-dev&layout=compact&theme=dracula&rank_icon=github">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmrz-dev&theme=dracula">
 
 <div style="display: inline_block"><br>
