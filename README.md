@@ -1,12 +1,13 @@
 # Hi! I'm Daniel and I'm a Front-end Developer! 💻
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielmrz-dev&layout=compact&theme=dracula&rank_icon=github">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmrz-dev&theme=dracula">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielmrz-dev&layout=compact&theme=dracula&rank_icon=github"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmrz-dev&theme=dracula">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Icone-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Icone-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Icone-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Icone-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">	
+
 </div>
 
 ##
