@@ -1,6 +1,6 @@
 # Hi! I'm Daniel and I'm a Front-end Developer! 💻
 
-<img height="230em" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmrz-dev&theme=dracula&hide_border=false"> <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmrz-dev&theme=dracula">
+<img height="220em" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmrz-dev&theme=dracula&hide_border=false"> <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmrz-dev&theme=dracula">
 
 
 <div style="display: inline_block"><br>
