@@ -1,6 +1,6 @@
 <h2>Hi! I'm Daniel and I'm a Front-end Developer! 💻 </h2>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmrz-dev&theme=dracula&hide_border=false"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmrz-dev&theme=dracula&show_icons=true&hide_border=false&layout=compact"> 
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmrz-dev&theme=dracula&hide_border=false"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmrz-dev&hide=sass,php&theme=dracula&show_icons=true&hide_border=false&layout=compact"> 
 
 <h2>Technologies that I use: </h2>
 <div style="display: inline_block">
