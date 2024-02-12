@@ -2,10 +2,8 @@
 <p align="center">
 I'm a Front-End Coding enthusiast with a burning passion for web programming. 🕸️ I'm driven by the goal of crafting web applications that seamlessly scale and deliver captivating experiences for users from day one. 🚀 I'm constantly exploring, discovering new technologies and frameworks to innovate and overcome challenges.
 </p>
-
 #
-
-
+<br>
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
 <img align="right" alt="GIF" src="https://github.com/danielmrz-dev/danielmrz-dev/blob/main/assets/Static%20assets.gif" width="360px"/>
 
