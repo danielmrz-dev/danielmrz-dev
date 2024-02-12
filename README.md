@@ -5,7 +5,6 @@ I'm a Front-End Coding enthusiast with a burning passion for web programming. ðŸ
 
 #
 
-<br>
 
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
 <img align="right" alt="GIF" src="https://github.com/danielmrz-dev/danielmrz-dev/blob/main/assets/Static%20assets.gif" width="360px"/>
