@@ -19,7 +19,7 @@ I'm a Front-End Coding enthusiast with a burning passion for web programming. �
   
 - 👯 I’m open to new **opportunities** and collaborations.
   
-- 🌎 Fluent in **Brazilian Portuguese** and **English**.
+- 🌎 Fluent in **Portuguese** and **English**.
   
 - 📫 How to reach me: <a href="mailto:danielmrz.dev@gmail.com">**danielmrz.dev@gmail.com**</a>
   
