@@ -7,7 +7,7 @@ I'm a Front-End Coding enthusiast with a burning passion for web programming. �
 
 <br>
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
-<img align="right" alt="GIF" src="https://github.com/danielmrz-dev/danielmrz-dev/blob/main/assets/Static%20assets.gif" width="340px"/>
+<img align="right" alt="GIF" src="https://github.com/danielmrz-dev/danielmrz-dev/blob/main/assets/Static%20assets.gif" width="300px"/>
 
 - 🗺️ I’m based in **São Paulo - Brazil**.
   
