@@ -23,7 +23,7 @@ I'm a Front-End Coding enthusiast with a burning passion for web programming. �
   
 - 📫 How to reach me: <a href="mailto:danielmrz.dev@gmail.com">**danielmrz.dev@gmail.com**</a>
   
-- 📲 You can also find me on my <a href="https://www.linkedin.com/in/danielmrz-dev/">**LinkedIn**</a>, <a href="https://twitter.com/danielmrz_dev">**Twitter**</a>, or <a href="https://www.instagram.com/danielmrzviolao/">**Instagram**</a>.
+- 📲 You can also find me on my <a href="https://www.linkedin.com/in/danielmrz-dev/">**LinkedIn**</a> or <a href="https://twitter.com/danielmrz_dev">**Twitter**</a>.
 
 <br>
 
