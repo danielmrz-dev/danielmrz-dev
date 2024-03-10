@@ -49,5 +49,5 @@ I'm a Front-End Coding enthusiast with a burning passion for web programming. �
 ## 📈 Achievements
 
 - 🎉 I have successfully completed **over 40 projects** on Frontend Mentor and shared my code with others.
-- 🤝 I have provided feedback to more than **2000** projects on Frontend Mentor website.
+- 🤝 I have provided feedback to more than **2500** projects on Frontend Mentor website.
 - 🏆 I've been on top positions on [**Front End Mentor's Wall of Fame**](https://www.frontendmentor.io/wall-of-fame).
