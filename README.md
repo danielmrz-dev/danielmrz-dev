@@ -1,6 +1,6 @@
 <h2>Hey, there! Welcome to my GitHub Profile! I'm Daniel 😊</h2>
 <p align="center">
-I'm a Front-End Coding enthusiast with a burning passion for web programming. 🕸️ I'm driven by the goal of crafting web applications that seamlessly scale and deliver captivating experiences for users from day one. 🚀 I'm constantly exploring, discovering new technologies and frameworks to innovate and overcome challenges.
+I'm a Front-End Coding enthusiast with a burning passion for web programming. 🕸️ I'm constantly exploring, discovering new technologies and frameworks to innovate and overcome challenges.
 </p>
 
 #
