@@ -35,6 +35,7 @@ I'm a Front-End Coding enthusiast with a burning passion for web programming. ðŸ
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/nodejs-%23323330.svg?style=for-the-badge&logo=Node.js&logoColor=%509941)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-%238511FA.svg?style=for-the-badge&logo=axios&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![GitHub](https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
