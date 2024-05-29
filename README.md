@@ -1,8 +1,8 @@
 <h2>Hey, there! Welcome to my GitHub Profile! I'm Daniel 😊</h2>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=danielmrz-dev&label=You%20are%20the%20visitor%20number&color=0e75b6&style=flat" alt="danielmrz-dev"/></p>
 <p align="center">
 I'm a Front-End Coding enthusiast with a burning passion for web programming. 🕸️ I'm constantly exploring, discovering new technologies and frameworks to innovate and overcome challenges.
 </p>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=danielmrz-dev&label=You%20are%20the%20visitor%20number&color=0e75b6&style=flat" alt="danielmrz-dev"/></p>
 
 #
 
