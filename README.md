@@ -30,7 +30,7 @@ I'm a Front-End Coding enthusiast with a burning passion for web programming. �
 
 <h2>⚒️ Tools and technologies I'm working with:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,vite,nodejs,npm,git,github,figma&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,vite,nodejs,npm,git,github,figma&theme=light&perline=15)](https://skillicons.dev)
 
 ## 💯 Goals:
 
