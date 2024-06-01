@@ -32,6 +32,8 @@ I'm a Front-End Coding enthusiast with a burning passion for web programming. �
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,vite,nodejs,npm,git,github,figma&theme=light&perline=15)](https://skillicons.dev)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmrz-dev&layout=compact)
+
 ## 💯 Goals:
 
 - 🚀 Never stop **learning and improving** my skills.
