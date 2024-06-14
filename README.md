@@ -28,7 +28,7 @@ I'm a Front-End Coding enthusiast with a burning passion for web programming.  I
 
 <br>
 
-<h2>⚒️ Tools and technologies I'm working with:</h2>
+<h2>⚒️ Tech Stack:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,vite,nodejs,npm,git,github,figma&theme=light&perline=15)](https://skillicons.dev)
 
