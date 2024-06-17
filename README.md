@@ -12,7 +12,7 @@ I'm a Front-End Coding enthusiast with a burning passion for web programming.  I
 
 - 🗺️ I’m based in **São Paulo - Brazil**.
   
-- 👨🏽‍💻 I’m a **Front-End Developer** with over a year of hands-on experience.
+- 👨🏽‍💻 I’m a **Front-end Developer** with over a year of hands-on experience.
   
 - 🔭 I’m currently studying **JavaScript**, **Typescript** and **React** at [**Alura**](https://www.alura.com.br/).
   
