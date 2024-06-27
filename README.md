@@ -14,7 +14,7 @@ I'm a Front-End Coding enthusiast with a burning passion for web programming.  I
   
 - 👨🏽‍💻 I’m a **Front-end Developer** with over a year of hands-on experience.
   
-- 🔭 I’m currently studying **JavaScript**, **Typescript** and **React** at [**Alura**](https://www.alura.com.br/).
+- 🔭 I’m currently studying **JavaScript**, **Typescript** and **React** at [**ADA Tech**](https://ada.tech/).
   
 - 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/danielmrz-dev)!.
   
