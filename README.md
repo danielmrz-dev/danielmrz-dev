@@ -14,7 +14,7 @@ I'm a Front-End Coding enthusiast with a burning passion for web programming.  I
   
 - 👨🏽‍💻 I’m a **Front-end Developer** with over a year of hands-on experience.
   
-- 🔭 I’m currently studying **JavaScript**, **Typescript** and **React** at [**ADA Tech**](https://comunidade.ada.tech/).
+- 🔭 I’m currently studying **Typescript** and **Angular** at [**ADA Tech**](https://comunidade.ada.tech/).
 
 - 👨🏽‍💻 Currently participating in [**Santander Coders Program**](https://ada.tech/sou-aluno/programas/santander-coders-2024).
   
