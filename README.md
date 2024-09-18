@@ -8,7 +8,7 @@ Sou um entusiasta do desenvolvimento Front-End e com uma paixão por programaç�
 <br>
 
 <!--- Ilustrações da web por Storyset ( https://storyset.com/web ) --->
-<img align="right" alt="GIF" src="https://github.com/danielmrz-dev/danielmrz-dev/blob/main/assets/Static%20assets.gif" width="350px"/>
+<img align="right" alt="GIF" src="https://github.com/danielmrz-dev/danielmrz-dev/blob/main/assets/Static%20assets.gif" width="340px"/>
 
 - 🗺️ Sou de **Guarulhos - São Paulo - Brasil**.
   
