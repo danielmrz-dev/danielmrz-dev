@@ -8,11 +8,11 @@ Sou um entusiasta do desenvolvimento Front-End e com uma paixão por programaç�
 <br>
 
 <!--- Ilustrações da web por Storyset ( https://storyset.com/web ) --->
-<img align="right" alt="GIF" src="https://github.com/danielmrz-dev/danielmrz-dev/blob/main/assets/Static%20assets.gif" width="300px"/>
+<img align="right" alt="GIF" src="https://github.com/danielmrz-dev/danielmrz-dev/blob/main/assets/Static%20assets.gif" width="350px"/>
 
 - 🗺️ Sou de **Guarulhos - São Paulo - Brasil**.
   
-- 👨🏽‍💻 Sou um **Desenvolvedor Front-end** com um ano e meio de experiência prática.
+- 👨🏽‍💻 **Desenvolvedor Front-end** com um ano e meio de experiência prática.
   
 - 🔭 Atualmente estou estudando **Typescript** e **Angular** na [**ADA Tech**](https://comunidade.ada.tech/).
 
