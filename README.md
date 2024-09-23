@@ -32,7 +32,7 @@ Sou um entusiasta do desenvolvimento Front-End e com uma paixão por programaç�
 
 <h2>⚒️ Tecnologias:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents,js,ts,angular,react,vite,nodejs,npm,yarn,git,github,figma&theme=light&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,angular,vite,nodejs,npm,yarn,git,github,figma&theme=light&perline=15)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmrz-dev&hide=sass,php&layout=compact)
 
