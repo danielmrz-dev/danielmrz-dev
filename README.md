@@ -34,7 +34,7 @@ Sou um entusiasta do desenvolvimento Front-End e com uma paixão por programaç�
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,angular,vite,nodejs,npm,yarn,git,github,figma&theme=light&perline=15)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmrz-dev&hide=sass,php&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmrz-dev&theme=dark&hide=sass,php&layout=compact)
 
 ## 💯 Objetivos:
 
