@@ -33,8 +33,22 @@ Sou um entusiasta do desenvolvimento Front-End e com uma paixão por programaç�
 <br>
 
 <h2>⚒️ Tecnologias:</h2>
+<!-- [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,angular,vite,nodejs,npm,yarn,git,github,figma&theme=light&perline=15)](https://skillicons.dev) -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,angular,vite,nodejs,npm,yarn,git,github,figma&theme=light&perline=15)](https://skillicons.dev)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Angular Material](https://img.shields.io/badge/%20-Angular%20Material-blue?style=for-the-badge&logo=angular)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmrz-dev&theme=dark&hide=sass,php&layout=compact)
 
