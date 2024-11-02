@@ -1,4 +1,4 @@
-<h2>Olá! Bem-vindo ao meu perfil no GitHub! Me chamo Daniel 😊</h2>
+<h2>Olá! Bem-vindo ao meu perfil! Me chamo Daniel 😊</h2>
 <p align="left">
 Sou um entusiasta do desenvolvimento Front-End e com uma paixão por programação web. Estou sempre explorando, descobrindo novas tecnologias e frameworks para inovar e superar desafios.
 </p>
