@@ -60,6 +60,6 @@ Sou um entusiasta do desenvolvimento Front-End e com uma paixão por programaç�
 
 ## 📈 Conquistas
 
-- 🎉 Completei com sucesso **mais de 55 projetos** no Frontend Mentor e compartilhei meu código com outros.
+- 🎉 Completei com sucesso **mais de 60 projetos** no Frontend Mentor e compartilhei meu código com outros.
 - 🤝 Dei feedback para mais de **3400** projetos no site do Frontend Mentor.
-- 🏆 Estou nas primeiras posições no [**Wall of Fame do Frontend Mentor**](https://www.frontendmentor.io/wall-of-fame?tab=all).
+- 🏆 Fui mentor do ano 2024 na plataforma [**Frontend Mentor**.](https://www.frontendmentor.io/wall-of-fame?tab=all).
