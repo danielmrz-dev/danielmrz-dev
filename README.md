@@ -14,13 +14,13 @@ Sou um entusiasta do desenvolvimento Front-End e com uma paixão por programaç�
 
 - 🗺️ Sou de **Guarulhos - São Paulo - Brasil**.
   
-- 👨🏽‍💻 **Desenvolvedor Front-end** com um ano e meio de experiência prática.
+- 👨🏽‍💻 **Desenvolvedor Front-end** com 2 anos de experiência prática.
   
-- 🔭 Atualmente estou estudando **Typescript** e **Angular** na [**ADA Tech**](https://comunidade.ada.tech/).
+- 🔭 Atualmente estou estudando **NodeJS** para entender um pouco melhor sobre back-end.
 
 - 👨🏽‍💻 Participei do [**Santander Coders 2024**](https://ada.tech/sou-aluno/programas/santander-coders-2024).
   
-- 🔍 Dê uma olhada nos meus projetos na plataforma [**Frontend Mentor**](https://www.frontendmentor.io/profile/danielmrz-dev)!.
+- 🔍 Dê uma olhada nos meus projetos na plataforma [**Frontend Mentor**](https://www.frontendmentor.io/profile/danielmrz-dev) e no meu [**Portfólio**](https://danielmrz-portfolio.vercel.app/)!.
   
 - 👯 Estou aberto a novas **oportunidades** e colaborações.
   
@@ -44,6 +44,7 @@ Sou um entusiasta do desenvolvimento Front-End e com uma paixão por programaç�
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Angular Material](https://img.shields.io/badge/%20-Angular%20Material-blue?style=for-the-badge&logo=angular)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
