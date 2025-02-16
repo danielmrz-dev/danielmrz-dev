@@ -18,7 +18,7 @@ Sou um entusiasta do desenvolvimento Front-End e com uma paixão por programaç�
 
 - 🧑🏽‍🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
   
-- 🔭 Atualmente estou estudando **NodeJS** para entender um pouco melhor sobre back-end.
+- 🔭 Atualmente estou estudando **Java e Spring** para entender um pouco melhor sobre back-end.
 
 - 👨🏽‍💻 Participei do [**Santander Coders 2024**](https://ada.tech/sou-aluno/programas/santander-coders-2024).
   
