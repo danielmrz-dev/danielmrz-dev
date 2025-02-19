@@ -53,7 +53,7 @@ Sou um entusiasta do desenvolvimento Front-End e com uma paixão por programaç�
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmrz-dev&theme=dark&hide=sass,php&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmrz-dev&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
 ## 💯 Objetivos:
 
