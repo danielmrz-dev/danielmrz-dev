@@ -12,7 +12,7 @@ Sou um entusiasta do desenvolvimento Front-End e com uma paixão por programaç�
 --->
 
 
-- 🗺️ Sou de **Guarulhos - São Paulo - Brasil**.
+- 🗺️ Sou de **São Paulo - Brasil**.
   
 - 👨🏽‍💻 **Desenvolvedor Front-end** com 2 anos de experiência prática.
 
