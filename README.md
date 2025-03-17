@@ -20,7 +20,7 @@ Sou um entusiasta do desenvolvimento Front-End e com uma paixão por programaç�
   
 - 🔭 Atualmente estou estudando **Java e Spring** para entender um pouco melhor sobre back-end.
 
-- 👨🏽‍💻 Participei do [**Santander Coders 2024**](https://ada.tech/sou-aluno/programas/santander-coders-2024).
+- 👨🏽‍💻 Participei do [**Santander Coders 2024**](https://ada.tech/sou-aluno/programas/santander-coders-2024) e do [Decola Tech Avanade 2025](https://www.dio.me/bootcamp/decola-tech-2025).
   
 - 🔍 Dê uma olhada nos meus projetos na plataforma [**Frontend Mentor**](https://www.frontendmentor.io/profile/danielmrz-dev) e no meu [**Portfólio**](https://danielmrz-portfolio.vercel.app/)!.
   
