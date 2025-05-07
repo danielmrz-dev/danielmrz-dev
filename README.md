@@ -9,17 +9,13 @@ Sou um entusiasta do desenvolvimento Front-End e com uma paixão por programaç�
 
 - 🗺️ Sou de **São Paulo - Brasil**.
   
-- 👨🏽‍💻 **Desenvolvedor Front-end** com 2 anos de experiência prática.
+- 👨🏽‍💻 **Desenvolvedor Front-end** na [**MJV Technology & Innovation**](https://www.mjvinnovation.com/pt-br/).
 
 - 🧑🏽‍🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
-  
-- 🔭 Atualmente estou estudando **Java e Spring** para entender um pouco melhor sobre back-end.
 
 - 👨🏽‍💻 Participei do [**Santander Coders 2024**](https://ada.tech/sou-aluno/programas/santander-coders-2024) e do [**Decola Tech Avanade 2025**](https://www.dio.me/bootcamp/decola-tech-2025).
   
 - 🔍 Dê uma olhada nos meus projetos na plataforma [**Frontend Mentor**](https://www.frontendmentor.io/profile/danielmrz-dev) e no meu [**Portfólio**](https://danielmrz-portfolio.vercel.app/)!.
-  
-- 👯 Estou aberto a novas **oportunidades** e colaborações.
   
 - 🌎 Fluente em **Português** e **Inglês**.
   
@@ -49,8 +45,7 @@ Sou um entusiasta do desenvolvimento Front-End e com uma paixão por programaç�
 ## 💯 Objetivos:
 
 - 🚀 Nunca parar de **aprender e melhorar** minhas habilidades.
-- 🌐 Aprofundar meu entendimento em **princípios de acessibilidade web** e integrá-los em meus projetos.
-- 🎨 Explorar novas metodologias de design e recursos para elevar minhas habilidades em **UI/UX**.
+
 
 ## 📈 Conquistas
 
