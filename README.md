@@ -9,7 +9,7 @@ Sou um entusiasta do desenvolvimento Front-End e com uma paixão por programaç�
 
 - 🗺️ Sou de **São Paulo - Brasil**.
   
-- 👨🏽‍💻 **Desenvolvedor Front-end** na [**MJV Technology & Innovation**](https://www.mjvinnovation.com/pt-br/).
+- 👨🏽‍💻 **Desenvolvedor Front-end** no [**BTG Pactual**](https://www.btgpactual.com/) através da [**MJV Technology & Innovation**](https://www.mjvinnovation.com/pt-br/).
 
 - 🧑🏽‍🎓 Cursando **Análise e Desenvolvimento de Sistemas** na [**FIAP**](https://www.fiap.com.br/).
 
