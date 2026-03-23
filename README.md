@@ -1,11 +1,10 @@
 <h2>Olá! Bem-vindo ao meu perfil! Me chamo Daniel 😊</h2>
 <p align="left">
-Sou um entusiasta do desenvolvimento Front-End e com uma paixão por programação web. Estou sempre explorando, descobrindo novas tecnologias e frameworks para inovar e superar desafios.
+Sou um entusiasta do desenvolvimento de software e com uma paixão por programação web. Estou sempre explorando, descobrindo novas tecnologias e frameworks para inovar e superar desafios.
 </p>
-<span align="right"><img src="https://komarev.com/ghpvc/?username=danielmrz-dev&label=Você%20é%20o%20visitante%20nº&color=0e75b6&style=flat" alt="danielmrz-dev"/></span>
-
-<br>
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=danielmrz-dev&color=0e75b6&style=for-the-badge&label=VISITANTES" />
+</p>
 
 - 🗺️ Sou de **São Paulo - Brasil**.
   
@@ -27,29 +26,76 @@ Sou um entusiasta do desenvolvimento Front-End e com uma paixão por programaç�
 
 <h2>⚒️ Tecnologias:</h2>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Angular Material](https://img.shields.io/badge/%20-Angular%20Material-blue?style=for-the-badge&logo=angular)
-![React](https://img.shields.io/badge/%20-React-black?style=for-the-badge&logo=React)
-![Storybook](https://img.shields.io/badge/%20-Storybook-black?style=for-the-badge&logo=Storybook)
-![NX](https://img.shields.io/badge/%20-NX-black?style=for-the-badge&logo=NX)
-![Java](https://camo.githubusercontent.com/bea90da226e09b503e6c8fde824f4816b98dcf30cd31e803006bf6335af06890/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465)
-![Spring](https://camo.githubusercontent.com/9ee242f2c2b1eb587f7e42704b3a0629082aac88f66fff96d34723f777b07775/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737072696e672d2532333644423333462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
+<div>
+  
+  ### Frontend
+  
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+  ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+  ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+  
+  ### Backend
+  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+  
+  ### Testes
+  
+  ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
+  ![Karma](https://img.shields.io/badge/Karma-4C1D95?style=for-the-badge&logo=karma&logoColor=white)
+  ![Vitest](https://img.shields.io/badge/Vitest-6D28D9?style=for-the-badge&logo=vitest&logoColor=white)
+  
+  ### DevOps & Versionamento
+  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+  ![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078D7?style=for-the-badge&logo=azurepipelines&logoColor=white)
+  ![CI/CD](https://img.shields.io/badge/CI%2FCD-22C55E?style=for-the-badge)
+  
+  ### Arquitetura & Boas Práticas
+  
+  ![Micro Frontends](https://img.shields.io/badge/Micro_Frontends-0F172A?style=for-the-badge)
+  ![single-spa](https://img.shields.io/badge/single--spa-1E293B?style=for-the-badge)
+  ![Monorepo](https://img.shields.io/badge/Monorepo-334155?style=for-the-badge)
+  ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+  ![APIs RESTful](https://img.shields.io/badge/APIs_RESTful-0EA5E9?style=for-the-badge)
+  ![SOLID](https://img.shields.io/badge/SOLID-0F766E?style=for-the-badge)
+  ![Clean Code](https://img.shields.io/badge/Clean_Code-14532D?style=for-the-badge)
+  ![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge)
+  ![Kanban](https://img.shields.io/badge/Kanban-00B4D8?style=for-the-badge)
+
+</div>
+
+## 📚 Formação & Programas
+
+<div>
+  <img src="https://img.shields.io/badge/FIAP-Análise_e_Desenvolvimento_de_Sistemas-ED1C24?style=for-the-badge"/>
+  <br>
+  <img src="https://img.shields.io/badge/Santander_Coders-2024-EC0000?style=for-the-badge"/>
+  <br>
+  <img src="https://img.shields.io/badge/Decola_Tech_Avanade-2025-0078D4?style=for-the-badge"/>
+</div>
+
+## 🏆 Conquistas
+
+<div>
+  <img src="https://img.shields.io/badge/🎉_+65_projetos-Frontend_Mentor-F7DF1E?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/🤝_+3400_feedbacks_dados-Frontend_Mentor-0e75b6?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/🏅_Mentor_do_Ano_2024-Frontend_Mentor-FF6B6B?style=for-the-badge"/>
+</div>
 
 ## 💯 Objetivos:
 
 - 🚀 Nunca parar de **aprender e melhorar** minhas habilidades.
-
-
-## 📈 Conquistas
-
-- 🎉 Completei com sucesso **mais de 60 projetos** no Frontend Mentor e compartilhei meu código com outros.
-- 🤝 Dei feedback para mais de **3400** projetos no site do Frontend Mentor.
-- 🏆 Fui mentor do ano 2024 na plataforma [**Frontend Mentor**.](https://www.frontendmentor.io/wall-of-fame?tab=all).
