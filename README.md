@@ -28,7 +28,7 @@ Sou um entusiasta do desenvolvimento de software e com uma paix√£o por programa√
 
 <div>
   
-  ### Frontend
+  #### Frontend
   
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -41,20 +41,20 @@ Sou um entusiasta do desenvolvimento de software e com uma paix√£o por programa√
   ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
   ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
   
-  ### Backend
+  #### Backend
   
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
   
-  ### Testes
+  #### Testes
   
   ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
   ![Karma](https://img.shields.io/badge/Karma-4C1D95?style=for-the-badge&logo=karma&logoColor=white)
   ![Vitest](https://img.shields.io/badge/Vitest-6D28D9?style=for-the-badge&logo=vitest&logoColor=white)
   
-  ### DevOps & Versionamento
+  #### DevOps & Versionamento
   
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -62,7 +62,7 @@ Sou um entusiasta do desenvolvimento de software e com uma paix√£o por programa√
   ![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078D7?style=for-the-badge&logo=azurepipelines&logoColor=white)
   ![CI/CD](https://img.shields.io/badge/CI%2FCD-22C55E?style=for-the-badge)
   
-  ### Arquitetura & Boas Pr√°ticas
+  #### Arquitetura & Boas Pr√°ticas
   
   ![Micro Frontends](https://img.shields.io/badge/Micro_Frontends-0F172A?style=for-the-badge)
   ![single-spa](https://img.shields.io/badge/single--spa-1E293B?style=for-the-badge)
