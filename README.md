@@ -79,11 +79,11 @@ Sou um entusiasta do desenvolvimento de software e com uma paixão por programa�
 ## 📚 Formação & Programas
 
 <div>
-  <img src="https://img.shields.io/badge/FIAP-Análise_e_Desenvolvimento_de_Sistemas-ED1C24?style=for-the-badge"/>
-  <br>
   <img src="https://img.shields.io/badge/Santander_Coders-2024-EC0000?style=for-the-badge"/>
   <br>
   <img src="https://img.shields.io/badge/Decola_Tech_Avanade-2025-0078D4?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/FIAP-Análise_e_Desenvolvimento_de_Sistemas-ED1C24?style=for-the-badge"/>
 </div>
 
 ## 🏆 Conquistas
