@@ -47,6 +47,7 @@ Sou um entusiasta do desenvolvimento de software e com uma paix√£o por programa√
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-1572B6?style=for-the-badge&logo=mysql&logoColor=white)
   
   #### Testes
   
